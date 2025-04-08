@@ -1,0 +1,23 @@
+.divis{
+    width: 100;
+    height: 100;
+    border: 1px solid black;
+}
+.divis{
+    width: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(146, 113, 22);
+}
+.divis{
+    padding: 16px 21px 14px 19px;
+    width: 100px;
+    background-color: #E8ACAA;
+} 
+.divis{
+    margin: 20px;
+    padding:16px 21px 14px 19px;
+    width: 100px;
+    background-color: rgb(179, 119, 63);
+    
+}
